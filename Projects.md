@@ -1,22 +1,22 @@
 <p style='text-align: center;'>
 <strong>
   <em>
-    <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
+    <a href="https://hend-m-da.github.io" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       About Me 
     </a>
     <span style="color:#155799;display:inline-block; padding:1rem;  background-color:white; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1.2rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Projects 
     </span>
-    <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem; background-color:#155799;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
+    <a href="https://hend-m-da.github.io/Testimonials" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem; background-color:#155799;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Testimonials 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
+    <a href="https://hend-m-da.github.io/Certifications" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Education 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
+    <a href="https://hend-m-da.github.io/Experience" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Experience 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
+    <a href="https://hend-m-da.github.io/Contact" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Contact 
     </a>
   </em>
@@ -29,14 +29,14 @@
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;" target="_blank" rel="noopener noreferrer"> 
+      <a href="https://github.com/hend-m-da/Analyzing_Marketing_Campaigns" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;" target="_blank" rel="noopener noreferrer"> 
         View Project 
       </a>
     </em>
   </strong>
 </center> 
 
-![lang_email](https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_lang_email.jpg)
+![lang_email](https://hend-m-da.github.io/Media/Analyzing_Marketing_Campaigns_lang_email.jpg)
 
 <details>
   <summary>
@@ -87,14 +87,14 @@
       <strong><em><span style="color:#5b2c6f;">Language mismatches,</span></em></strong> <br>
         97.55% of ads served in English despite multilingual users—introduced bias and skewed channel performance, especially in House Ads. </p>      
     <div style="display:flex; justify-content:center;">      
-        <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="400" height="400" style="border-radius: 10px;margin:0 auto;"> 
+        <img src="https://hend-m-da.github.io/Media/Analyzing_Marketing_Campaigns%20_language.jpg" alt="lang" width="400" height="400" style="border-radius: 10px;margin:0 auto;"> 
     </div>
         <p style='text-align: justify;font-size:.9rem;'>
       <strong><em><span style="color:#5b2c6f;">Uneven distribution of exposures </span></em></strong> <br>
         77.07% of users saw only one ad, while a small segment (22.93%) saw up to 12 impressions, heavily influencing conversion/retention outcomes.<br><br>
      <strong><em><span style="color:#5b2c6f;">Technical bug in House Ads </span></em></strong> <br>
       caused recurring language mismatches after January 10, heavily distorting conversion rates.<br></p>
-     <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Bug.jpg" alt="bug" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br>
+     <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/Analyzing_Marketing_Campaigns_Bug.jpg" alt="bug" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br>
   <h3><center>
     <strong>
       <em>
@@ -116,7 +116,7 @@
       <strong><em><span style="color:#5b2c6f">Language: </span></em></strong><br>
       97.55% of ads displayed in English; language mismatch occurred 449 times, mainly from House Ads (86.68%).</p>
    <div style="display:flex; justify-content:center;">   
-  <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg" alt="mismatch" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
+  <img src="https://hend-m-da.github.io/Media/Analyzing_Marketing_Campaigns_Mismatch.jpg" alt="mismatch" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
   <p style='text-align: justify;font-size:0.9rem;'>
       <strong><em><span style="color:#5b2c6f">Age distribution:</span></em></strong><br>
        heavily skewed toward younger users: 47.33% under age 30, with the largest segment being 19–24 (1,304 users; 16.56%).<br><br>
@@ -133,7 +133,7 @@
           <li> Younger Users (under 30) ≈ 19.29%, Older Users (above 30) ≈ 7.29% </li><br>
           <li> The 16th and 17th of January recorded the highest conversion rates at 25.52% & 21.95, respectively.</li><br>
     </ul>
-      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg" alt="daily_sub" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br>  
+      <div style="display:flex; justify-content:center;"><img src="https://hend-m-da.github.io/Media/Analyzing_Marketing_Campaigns%20-%20barh.jpg" alt="daily_sub" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div><br>  
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Retention Rates:</span></em></strong><ul style="font-size:0.9rem;margin-bottom: 10px; margin-top: 0px;">
         <li> Overall Retention Rate ≈ 65.95%. </li><br>
         <li> Email 76.47% (Highest), House Ads 58.05 (Lowest).</li><br>
@@ -150,10 +150,10 @@
           <li> Arabic and German outperformed other languages overall, showing strong conversion rates across most age groups, & English had the weakest performance, especially among users aged 30 and above, where conversion rates drop significantly. </li><br>
           <li> Ages 19–24 consistently exhibit the highest conversion rates across all marketing channels, within this age group, Email performs strongest (45.79%), followed by Instagram (31.23%) and Facebook (23.26%).</li><br>
       </ul>
-      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Heat%20map.jpg" alt="daily_sub" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
+      <div style="display:flex; justify-content:center;"><img src="https://hend-m-da.github.io/Media/Analyzing_Marketing_Campaigns_Heat%20map.jpg" alt="daily_sub" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
       <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f">Supscription Pattern: </span></em></strong><br>
       Email is the strongest marketing channel across all age groups, especially for users younger than 30.</p><br>
-     <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>    
+     <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/Analyzing_Marketing_Campaigns_Email_Pattern.jpg" alt="email_pattern" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>    
       <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f">Variant Pattern:</span></em></strong><br>
         Personalized ads are highly effective among younger audiences (under 30), while simpler, non-personalized messages may resonate better with older users (30+).</p>
       <p style="font-size:0.9rem;"><strong><em><span style="color:#5b2c6f">Language Bug Impact:</span></em></strong><br>
@@ -305,11 +305,11 @@
          Measured using COGS-to-Revenue ratios to guide purchasing and logistics decisions.<br><br>
       <strong><em><span style="color:#e67e22">Second-chance items:</span></em></strong><br>
         Investigated the “B-Medium Value” group from ABC Analysis to assess selling potential, with a spotlight on its top buyers.</p>
-        <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Control_Decisions.jpg" alt="Inventory_Analysis_Control_Decisions" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
+        <div style="display:flex; justify-content:center;"><img src="https://hend-m-da.github.io/Media/Inventory_Analysis_Control_Decisions.jpg" alt="Inventory_Analysis_Control_Decisions" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
           <p style='text-align: justify;font-size:.9rem;'>
         <strong><em><span style="color:#e67e22;font-size:0.9rem;">Impact of ABC Analysis:</span></em></strong><br>
         Ranked products by revenue contribution to assess how quickly classes A, B, and C cover cumulative revenue.</p>
-        <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Management_Solutions.jpg" alt="Inventory_Analysis_Management_Solutions" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
+        <div style="display:flex; justify-content:center;"><img src="https://hend-m-da.github.io/Media/Inventory_Analysis_Management_Solutions.jpg" alt="Inventory_Analysis_Management_Solutions" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
   <h3><center>
   <strong>
       <em>
@@ -338,11 +338,11 @@
          Used Power Query & DAX for deriving insights.<br><br>
       <strong><em><span style="color:#e67e22">Data Visualization:</span></em></strong><br>
          Designed clear charts to reflect dataset insights.<br>
-      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Overview.jpg" alt="Inventory_Analysis_Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
+      <div style="display:flex; justify-content:center;"><img src="https://hend-m-da.github.io/Media/Inventory_Analysis_Overview.jpg" alt="Inventory_Analysis_Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
         <p style='text-align: justify;font-size:.9rem;'>
       <strong><em><span style="color:#e67e22;font-size:0.9rem;">Analysis:</span></em></strong><br>
         Reviewed key influencers on inventory performance.</p>
-     <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Inventory_Analysis_Product_Performance_2021.jpg" alt="Inventory_Analysis_Product_Performance_2021" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
+     <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/Inventory_Analysis_Product_Performance_2021.jpg" alt="Inventory_Analysis_Product_Performance_2021" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
   </p>
   <h3><center>
     <strong>
@@ -529,7 +529,7 @@
   <p style='text-align: justify;font-size:0.9rem;'>
     <strong><em><span style="color:#3AAFA9">Visualization:</span></em></strong><br>
          Selected and developed the most appropriate charts for effective data presentation, ensuring the dataset’s key insights were clearly reflected, and applying the suitable filters.</p>
-      <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/HealthStat_Overview.jpg" alt="HealthStat_Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
+      <div style="display:flex; justify-content:center;"><img src="https://hend-m-da.github.io/Media/HealthStat_Overview.jpg" alt="HealthStat_Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
         <p style='text-align: justify;font-size:.9rem;'>
 <strong><em><span style="color:#3AAFA9;font-size:0.9rem;">Analysis:</span></em></strong><br>
         Conducted in-depth reviews to identify key influencers affecting hospital efficiency.
@@ -570,7 +570,7 @@
           <li>Discharges by Illness Severity & Mortality Risk.</li><br>
           <li>Total Discharges by Patient Disposition & Dignosis.</li>
     </ul>   
-          <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
+          <div style="display:flex; justify-content:center;"><img src="https://hend-m-da.github.io/Media/HealthStat_Hospital Profile.jpg" alt="HealthStat_Hospital Profile" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
   <h3><center>
     <strong>
       <em>
@@ -587,7 +587,7 @@
           <li>	Fracture of Neck of Femur (Hip) Diagnosis.</li><br>
           <li>	NYC hospitals recorded the highest average LOS, potentially linked to the region’s high hospital density.</li>
         </ul>
-        <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/HealthStat_LoS.jpg" alt="HealthStat_LoS" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
+        <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/HealthStat_LoS.jpg" alt="HealthStat_LoS" max-width="100%" style="border-radius: 10px;margin:0 auto;"> </div>
         <h4><strong><em><span style="color:#3AAFA9;font-size:0.9rem;">Key factors influencing Cost:</span></em></strong></h4> 
     <ul style="font-size:0.9rem;">
           <li>  Residency in NYC.</li><br>
@@ -595,7 +595,7 @@
           <li>	Extreme Mortality Risk.</li><br>
           <li>	Extreme Severity Level.</li>
     </ul>
-    <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/HealthStat_Costs.jpg" alt="HealthStat_Costs" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+    <div style="display:flex; justify-content:center;"><img src="https://hend-m-da.github.io/Media/HealthStat_Costs.jpg" alt="HealthStat_Costs" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
   <h3><center>
     <strong>
       <em>
@@ -683,7 +683,7 @@
  <p style='text-align: center;font-size:.9rem;'>
     Created a comprehensive Tableau dashboard to analyze employee data, gaining insights into workforce aspects, including demographics, hiring and termination trends, and salary distributions. This analysis aimed to understand employee characteristics, department-specific trends, and performance evaluations to drive data-informed decisions.
   </p>
-  <div style="display:flex; justify-content:center;"><img src="https://hend-a-ghafour.github.io/Media/HR.jpg" alt="HR" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
+  <div style="display:flex; justify-content:center;"><img src="https://hend-m-da.github.io/Media/HR.jpg" alt="HR" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div>
   <h3><center>
     <strong>
       <em>
@@ -710,7 +710,7 @@
         Verified data types, identified null values, and inspected unique entries, such as detecting nulls in the 'termdate' column indicating non-terminated employees.<br><br>
       <strong><em><span style="color:#ac9055">Visualization:</span></em></strong><br>
       Selected the most appropriate charts for effective data presentation and created a comprehensive employee information table.</p>
-     <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+     <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/HR-Emp-Details.jpg" alt="HR Employee Details" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
   <p style='text-align: justify;font-size:0.9rem'>
 <strong><em><span style="color:#ac9055">Analysis:</span></em></strong><br>
    Conducted statistical analysis to identify trends in hiring, terminations, and salary distributions.
@@ -821,14 +821,14 @@
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/No-Show-Appointments/blob/main/no_show_appointments.ipynb" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;" target="_blank" rel="noopener noreferrer"> 
+      <a href="https://github.com/hend-m-da/No-Show-Appointments/blob/main/no_show_appointments.ipynb" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;" target="_blank" rel="noopener noreferrer"> 
         View Project 
       </a>
     </em>
   </strong>
 </center> 
 
-![No Show](https://hend-a-ghafour.github.io/Media/No-Show-Appointment.jpg)
+![No Show](https://hend-m-da.github.io/Media/No-Show-Appointment.jpg)
 
 <details>
   <summary>
@@ -894,7 +894,7 @@
      <strong><em><span style="color:#5b2c6f">Data Completeness: </span></em></strong><br>
      Sparse neighborhood data limited definitive conclusions regarding neighborhood influence on attendance rates. Additionally, some appointment dates were recorded prior to their scheduled dates, leading to negative appointment gaps.
   </p>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_loc.jpg" alt="Locations" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/No_show_loc.jpg" alt="Locations" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
   <h3><center>
     <strong>
       <em>
@@ -928,21 +928,21 @@
       Middle-aged, elderly, and child groups showed the highest commitment to appointments, suggesting a link between age and regular healthcare engagement.<br><br>
       <strong><em><span style="color:#5b2c6f">Appointment Scheduling Gap:</span></em></strong><br> 
       Patients are more likely to attend appointments with shorter scheduling gaps. Same-day and short-gap appointments had the highest attendance rates.</p>
-    <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_gap.jpg" alt="sched_Gap" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
+    <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/No_show_gap.jpg" alt="sched_Gap" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
       <p style='text-align: justify;font-size:0.9rem;'> 
 <strong><em><span style="color:#5b2c6f">Neighborhood Influence: </span></em></strong><br> 
       Certain neighborhoods showed significantly higher attendance rates, although the data suggests this may also correlate with lower appointment counts in these areas.</p>
-   <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Noshow.jpg" alt="Patients" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
+   <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/Noshow.jpg" alt="Patients" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
        <p style='text-align: justify;font-size:0.9rem;'> 
 <strong><em><span style="color:#5b2c6f">Scholarship Status:</span></em></strong><br> 
       Attendance rates were marginally lower for patients with a government scholarship, indicating a potential but small effect.<br><br>
     <strong><em><span style="color:#5b2c6f">Health Conditions: </span></em></strong><br> 
       Patients with chronic conditions such as hypertension or diabetes showed slightly higher attendance rates, which may indicate a greater commitment to health management among these groups.</p>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_dm.jpg" alt="DM" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/No_show_dm.jpg" alt="DM" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
        <p style='text-align: justify;font-size:0.9rem;'> 
 <strong><em><span style="color:#5b2c6f">Reminders: </span></em></strong><br> 
       Confirmations sent to patients increased attendance by over 10%, suggesting a strong positive impact from reminder messages.</p>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/No_show_sms.jpg" alt="sched_SMS" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/No_show_sms.jpg" alt="sched_SMS" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
   <h3><center>
     <strong>
       <em>
@@ -988,7 +988,7 @@
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/Northwind/blob/main/Northwind.sql" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;" target="_blank" rel="noopener noreferrer"> 
+      <a href="https://github.com/hend-m-da/Northwind/blob/main/Northwind.sql" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;" target="_blank" rel="noopener noreferrer"> 
         View Project 
       </a>
     </em>
@@ -1047,7 +1047,7 @@
       <strong><em><span style="color:#5b2c6f">Dashboard Creation: </span></em></strong><br>
       Developed seven dashboards summarizing critical insights into sales, product performance, and customer behaviors.
   </p>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/Northwind-Dashboard-Overview.jpg" alt="Overview" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> 
   <h3><center>
     <strong>
       <em>
@@ -1099,7 +1099,7 @@
         <li><em><strong>Shipping Efficiency:</strong></em> Average shipping time was 8.48 days.</li>
       </ul><br>
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Product Analysis:</span></em></strong><br><br>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Category-Performance.jpg" alt="Category" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/Northwind-Dashboard-Category-Performance.jpg" alt="Category" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <ul style="font-size:0.9rem;">
         <li><em><strong>Product Categories:</strong></em> 8 categories with 77 products.</li><br>
         <li><em><strong>Net Sales:</strong></em> $1,265,793.18; Net Revenue: $89K.</li><br>
@@ -1108,27 +1108,27 @@
         <li><em><strong>Highest Net Sales by Month:</strong></em> Achieved in April 1998, totaling $124K.</li>
       </ul><br>
   <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Product Stock and Reorder Analysis:</span></em></strong><br><br>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Products.jpg" alt="Products" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/Northwind-Dashboard-Products.jpg" alt="Products" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <ul style="font-size:0.9rem;">
         <li><em><strong>Continued & Discontinued Products:</strong></em> 10.13% were discontinued, while 89.87% remained active.Of the active products: 66.52% were in "Safe Stock" status, and 23.35% required restocking.</li><br>
         <li><em><strong>Top Category by Performance:</strong></em> Beverages, with net sales of $268K, net revenue of $19K, discounts of $19K, and $4K in freight, across each year.</li>
       </ul><br>
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Geographical Insights:</span></em></strong><br><br>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Financial-Summary.jpg" alt="Financial_summary" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/Northwind-Dashboard-Financial-Summary.jpg" alt="Financial_summary" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <ul style="font-size:0.9rem;">
         <li><em><strong>Top Countries by Sales:</strong></em> in 1996: USA - $35K, in 1997: Germany - $117K, & in 1998: USA - $93K.</li><br>
         <li><em><strong>Country with Most Customers: </strong></em>  USA, with 13 recorded customers.</li><br>
         <li><em><strong>Discount Performance by Country: </strong></em> USA had the highest discounts and net sales across all three years.</li>
       </ul><br>
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Customer Insights:</span></em></strong><br><br>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Customers.jpg" alt="Customers" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/Northwind-Dashboard-Customers.jpg" alt="Customers" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <ul style="font-size:0.9rem;">
         <li><em><strong>Total Amount Paid by Customers (Including Shipping):</strong></em> $1.3M.</li><br>
         <li><em><strong>New Customers in 1998:</strong> </em> 1 new customer.</li><br>
         <li><em><strong>Highest Monthly Sales: </strong> </em> April 1998, driven by 51 customers placing orders.</li>
       </ul><br>
       <strong><em><span style="color:#5b2c6f;font-size:0.9rem;">Shipping Companies:</span></em></strong><br><br>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/Northwind-Dashboard-Shipping-Companies.jpg" alt="Shipping" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/Northwind-Dashboard-Shipping-Companies.jpg" alt="Shipping" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <ul style="font-size:0.9rem;">
         <li><em><strong>Top Freight Costs by Year:</strong></em> </li>
           <ul>
@@ -1185,7 +1185,7 @@
 <center>
   <strong>
     <em>
-      <a href="https://github.com/hend-a-ghafour/Udacity-projects/blob/Investigate-Datasets/Death-and-Life-Expectancy-for-Mothers-andChildren.ipynb" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;" target="_blank" rel="noopener noreferrer"> 
+      <a href="https://github.com/hend-m-da/Udacity-projects/blob/Investigate-Datasets/Death-and-Life-Expectancy-for-Mothers-andChildren.ipynb" style="display:inline-block; padding:5px 8px; color:white;  text-align:center; text-decoration:none; border-radius:0.3rem;background-color:#bdc3c7;" target="_blank" rel="noopener noreferrer"> 
         View Project 
       </a>
     </em>
@@ -1193,7 +1193,7 @@
 </center> 
 <br><br>
 
-![Death & Life](https://hend-a-ghafour.github.io/Media/DeathLifeExpectancyforMothersChildren.jpg)
+![Death & Life](https://hend-m-da.github.io/Media/DeathLifeExpectancyforMothersChildren.jpg)
 
 
 <details>
@@ -1235,7 +1235,7 @@
 <p style='text-align: justify;font-size:0.9rem;'>
      <strong><em><span style="color:#159957">Data Analysis: </span></em></strong><br>
         Evaluated health indicators for each region over the specified period.<br></p>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/cmr.jpg" alt="CMR" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/cmr.jpg" alt="CMR" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <p style="text-align:justify;font-size:0.9rem;">
      <strong><em><span style="color:#159957">Comparative Analysis:  </span></em></strong><br>
         Compared indicators across regions and years to identify trends and patterns.<br><br>
@@ -1291,11 +1291,11 @@
       <strong><em><span style="color:#159957">Maternal Mortality Rate:</span></em></strong><br> 
         Showed a global decrease, with AFR experiencing the highest rates and EUR the lowest.<br><br>
       <strong><em><span style="color:#159957">Average Life Expectancy: </span></em></strong><br> 
-        Increased across regions, with EUR having the highest and AFR the lowest.<br></p><div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/ale.jpg" alt="ALE" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+        Increased across regions, with EUR having the highest and AFR the lowest.<br></p><div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/ale.jpg" alt="ALE" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
 <p style="font-size:0.9rem;text-align:justify;">       
   <strong><em><span style="color:#159957">Total Health Spending per Person:  </span></em></strong><br> 
         Showed an overall increase, with EUR spending the most and SEAR the least. It is considered a reliable indicator, though its impact on skilled birth attendance showed variability.</p>
-  <div style="display:flex; justify-content:center;"> <img src="https://hend-a-ghafour.github.io/Media/health-spending-person.jpg" alt="Health Sending per Person" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
+  <div style="display:flex; justify-content:center;"> <img src="https://hend-m-da.github.io/Media/health-spending-person.jpg" alt="Health Sending per Person" max-width="100%" style="border-radius: 10px;margin:0 auto;"></div> <br>
       <p style="text-align:justify;font-size:0.9rem;">
        <strong><em><span style="color:#159957">Percentage of Total Health Expenditure in GDP:  </span></em></strong><br> 
         Generally increased, with EUR having the highest and EMR the lowest. It is considered a Significant indicator affecting health metrics, but with regional inconsistencies.
@@ -1321,22 +1321,22 @@
 <p style='text-align: center;'>
 <strong>
   <em>
-    <a href="https://hend-a-ghafour.github.io" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
+    <a href="https://hend-m-da.github.io" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       About Me 
     </a>
     <span style="color:#155799;display:inline-block; padding:1rem;  background-color:white; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1.2rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Projects 
     </span>
-    <a href="https://hend-a-ghafour.github.io/Testimonials" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem; background-color:#155799;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
+    <a href="https://hend-m-da.github.io/Testimonials" style="display:inline-block; padding:1rem; color:white; background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem; background-color:#155799;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Testimonials 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Certifications" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
+    <a href="https://hend-m-da.github.io/Certifications" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Education 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Experience" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
+    <a href="https://hend-m-da.github.io/Experience" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Experience 
     </a>
-    <a href="https://hend-a-ghafour.github.io/Contact" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
+    <a href="https://hend-m-da.github.io/Contact" style="display:inline-block; padding:1rem; color:white;  background-color:#155799; text-align:center; text-decoration:none; border-radius:0.3rem;width: 130px; height: 60px;font-size:1rem;margin-top:1rem;padding-left:0rem;padding-right:0rem;"> 
       Contact 
     </a>
   </em>
